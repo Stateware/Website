@@ -1,0 +1,10 @@
+[
+	{
+		"type" : "image",
+		"src" : "res/03282015.jpg"
+	},
+	{
+		"type" : "plaintext",
+		"text" : "</p><h5 class='subheading'>What is Stateware?</h5><p class='text'>Stateware stands for Students Taking Advantage of Their Education While Accelerating Research Efforts.</p><p class='text'>Stateware is</p><ul class='text'><li>Students building non-trivial, for-release software in a structured industry style development environment</li><li>A \"full stack\" software development experience, exposing students to all aspects of the development cycle</li><li>An opportunity for student leadership and collaboration</li><li>A bridge between Penn State undergraduates and University researchers</li><li>A unique advantage for Penn State's research and Computer Science programs</li><li>An environment where students and potential employers can connect and network</li></ul><p class='text'>With the support of Penn State’s student chapter of ACM, Stateware gives students real and tangible career-relevant experience in structured software development by working in teams to produce non-trivial software that is larger than traditionally found in the classroom. These projects are research-focused, and contribute to the efforts of researchers from many disciplines at the University. In this way, we are fostering an unprecedented level of engagement both between disciplines, and between undergraduates and researchers. This program is supported by enrollment in a 1.5 credit class at Penn State (CMPSC 397A and 497C).</p></br><h5 class='subheading'>Our Vision</h5><p class='text'>Ultimately, our goal is to mold Penn State's exceptional CSE students into successful and professional software engineers. Combined with our unique relationship with Penn State's researchers, we can also bring computing power into their hands, and further Penn State's position as one of the world leaders in research."
+	}
+]

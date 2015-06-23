@@ -1,0 +1,27 @@
+[
+	{
+		"name" : "Home",
+		"default" : "home.json"
+	},
+	{
+		"name" : "News",
+		"default" : "news.json"
+	},
+	{
+		"name" : "Our Team",
+		"default" : "team.json"
+	},
+	{
+		
+		"name" : "Projects",
+		"default" : "projects.json"
+	},
+	{
+		"name" : "Clients",
+		"default" : "clients.json"
+	},
+	{	
+		"name" : "Contact Us",
+		"default" : "contact.json"
+	}
+]

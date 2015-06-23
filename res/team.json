@@ -1,0 +1,105 @@
+[
+	{
+		"type" : "bio",
+		"name" : "Joshua Crafts",
+		"image" : {
+			"src" : "res/joshuacrafts.jpg",
+			"alt" : "Joshua Crafts",
+			"height" : "300",
+			"width" : "300"
+		},
+		"title" : "Co-founder / CEO",
+		"email" : "jcrafts@psu.edu",
+		"website" : "http://www.joshuacrafts.me",
+		"first" : "",
+		"body" : "Joshua Crafts is a Senior pursuing a B.S. in Computer Science, graduating in Fall 2016. Joshua founded Stateware with Dylan Fetch and managed the front end team in Spring 2015. For Fall 2015-Spring 2016, Joshua is taking on the 'CEO' role, by managing relationships with clients and sponsors, and making sure the developers have the necessary tools for success. Joshua has worked Dr. Matthew Ferrari, continuing to develop Dav3i over Summer 2015, and also for Dr. Patrick McDaniel, as Developer/Team Lead in McDaniel's cybersecurity lab (both at University Park, PA)." 
+	},
+	{
+		"type" : "bio",
+		"name" : "Dylan Fetch",
+		"image" : {
+			"src" : "res/dylanfetch.jpg",
+			"alt" : "Dylan Fetch",
+			"height" : "300",
+			"width" : "300"
+		},
+		"title" : "Co-founder / CTO",
+		"email" : "djf5327@psu.edu",
+		"website" : "https://www.linkedin.com/profile/view?id=373323262",
+		"first" : "",
+		"body" : "Dylan Fetch is a Senior pursuing a B.S. in Computer Science, graduating in Spring 2016. Dylan founded Stateware with Joshua Crafts and managed the back end team in Spring 2015. For Fall 2015-Spring 2016, Dylan is taking on the 'CEO' role, by overseeing the broad direction of Stateware projects, and managing our Project Leads. Dylan has worked as a Website Assessment Technician at PennTAP (University Park, PA) and as a Summer Intern for J.P. Morgan Chase (Newark, Delaware)." 
+	},
+	{
+		"type" : "bio",
+		"name" : "Paul Jang",
+		"image" : {
+			"src" : "res/pauljang.jpg",
+			"alt" : "Paul Jang",
+			"height" : "300",
+			"width" : "300"
+		},
+		"title" : "Project Lead",
+		"email" : "djf5327@psu.edu",
+		"first" : "",
+		"body" : "Paul Jang is a Senior pursuing a B.S. in Computer Engineering, graduating in Spring 2016. Paul has been a member of Stateware since Spring 2015, and spent the majority of that semester working on UI oriented development for the Dav3i front end team. Paul has worked at Economic Systems Inc. (Falls Church, VA) as a Software Development Intern." 
+	},
+	{
+		"type" : "bio",
+		"name" : "Kyle Nicholson",
+		"image" : {
+			"src" : "res/kylenicholson.jpg",
+			"alt" : "Kyle Nicholson",
+			"height" : "300",
+			"width" : "300"
+		},
+		"title" : "Project Lead",
+		"email" : "djf5327@psu.edu",
+		"website" : "https://www.linkedin.com/profile/view?id=352537714",
+		"first" : "",
+		"body" : "Kyle Nicholson is a Senior pursuing a B.S. in Computer Science, graduating in Fall 2015. Kyle has been a member of Stateware since Spring 2015, and spent that semester working on both the Dav3i front end and back end teams. Kyle has worked as a Software Engineering Intern at SAIC, Inc. (Johnstown, PA)." 
+	},
+	{
+		"type" : "bio",
+		"name" : "Emma Roudabush",
+		"image" : {
+			"src" : "res/emmaroudabush.jpg",
+			"alt" : "Emma Roudabush",
+			"height" : "300",
+			"width" : "300"
+		},
+		"title" : "Project Lead",
+		"email" : "djf5327@psu.edu",
+		"website" : "https://www.linkedin.com/profile/view?id=223163679",
+		"first" : "",
+		"body" : "Emma Roudabush is a Senior pursuing a B.S. in Computer Science, graduating in Spring 2016. Emma has been a member of Stateware since Spring 2015, and spent that semester working on the Dav3i front end team on UI oriented development and testing. Emma has spent 3 Summers working as an Software Development Intern for Microsoft (Redmond, Washington)." 
+	},
+	{
+		"type" : "bio",
+		"name" : "Steven Shaffer",
+		"image" : {
+			"src" : "res/stevenshaffer.gif",
+			"alt" : "Steven Shaffer",
+			"height" : "300",
+			"width" : "300"
+		},
+		"title" : "Instructor",
+		"email" : "scs12@psu.edu",
+		"first" : "",
+		"body" : "Steven Shaffer is an Assistant Professor in the School of Electrical Engineering and Computer Science. He is a former Software QA Engineer, and has a Master's in Educational Psychology. Steven takes a keen interest in the pedagogy of training good software developers, and the practice of high quality software development. His wealth of experience and advisory role to the CTO and Project Leads make him an invaluable resource to Stateware as an organization." 
+	},
+	{
+		"type" : "bio",
+		"name" : "Stephen Fast",
+		"image" : {
+			"src" : "res/stephenfast.jpg",
+			"alt" : "Stephen Fast",
+			"height" : "300",
+			"width" : "300"
+		},
+		"title" : "Research Liaison",
+		"email" : "scs12@psu.edu",
+		"website" : "https://www.linkedin.com/profile/view?id=37278953",
+		"first" : "",
+		"body" : "Stephen Fast is the Lead of Cyber Innovation Strategy at Penn State's Applied Research Lab, and also teaches Calculus I and II as and Adjunct Faculty member in Penn State's Continuing Education department. He has previously served as President of Remcom, Inc. Stephen was instrumental in shaping the inception of Stateware and its core focus on Penn State's research efforts, and continues to provide a strong link to its research community." 
+	}
+]

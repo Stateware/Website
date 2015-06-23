@@ -1,0 +1,51 @@
+[
+	{
+		"type" : "heading",
+		"text" : "Clients"
+	},
+	{
+		"type" : "bio",
+		"name" : "Matthew Ferrari",
+		"image" : {
+			"src" : "res/matthewferrari.jpg",
+			"alt" : "Matthew Ferrari",
+			"height" : "300",
+			"width" : "300"
+		},
+		"title" : "Assistant Professor of Biology",
+		"email" : "matthewferrari@icloud.com",
+		"website" : "http://www.theferrarilab.com",
+		"first" : "",
+		"body" : "Matthew Ferrari heads The Ferrari Lab, using mathematical and statistical tools to study epidemiology and patterns of disease incidence in time and space. His work in studying the Measles virus is what originally brought him to Stateware in Fall 2014, which resulted in <a href='http://dav3i.stateware.org'>Dav3i</a>"
+	},
+	{
+		"type" : "bio",
+		"name" : "Anton Nekrutenko",
+		"image" : {
+			"src" : "res/antonnekrutenko.jpg",
+			"alt" : "Anton Nekrutenko",
+			"height" : "300",
+			"width" : "300"
+		},
+		"title" : "Professor of Biochemistry and Molecular Biology",
+		"email" : "jcrafts@psu.edu",
+		"website" : "https://galaxyproject.org/",
+		"first" : "",
+		"body" : "Anton Nekrutenko heads The Nekrutenko Lab, studying Comparative Genome Analysis, in particular Genome Annotation by comparative analysis. His work on the <a href='https://galaxyproject.org/'>Galaxy Project</a> attracted the attention of Stateware's directors in Summer 2015, and expanding it will be the task of one of our development teams for Fall 2015-Spring 2016."
+	},
+	{
+		"type" : "bio",
+		"name" : "Vikash Gayah",
+		"image" : {
+			"src" : "res/vikashgayah.jpg",
+			"alt" : "Vikash Gayah",
+			"height" : "300",
+			"width" : "300"
+		},
+		"title" : "Assistant Professor of Civil Engineering",
+		"email" : "gayah@engr.psu.edu",
+		"website" : "http://www.engr.psu.edu/gayah/",
+		"first" : "",
+		"body" : "Vikash Gayah is a researcher at Penn State studying the dynamics of urban transportation networks, including their design, operation, and management. To further develop the apparatus of studying traffic systems, Vikash has approached Stateware to develop a traffic system simulator, which will simulate a scenario in a traffic system built by the user. This will be the project developed by one of our development teams for Fall 2015-Spring 2016."
+	}
+]

@@ -1,37 +1,42 @@
 <!DOCUMENT html>
-
+<meta charset="utf-8">
 <html>
 	<head>
-		
+		<link href='http://fonts.googleapis.com/css?family=Montserrat:400,700|Hind|Libre+Baskerville:400,700|Halant:600' rel='stylesheet' type='text/css'>
+		<link rel="stylesheet" type="text/css" href="style.css"/>
 	</head>
 	<body>
 		<div class="header">
 			<div class="logo">
-				<img src="logo.png" alt="logo"/>
+				<img src="res/header.png" alt="logo"/>
 			</div>
 			<div class="links">
-				<a href="index.html">Home</a>
-				<a href="news.html">News</a>
-				<a href="about.html">About Us</a>
-				<a href="projects.html">Projects</a>
-				<a href="clients.html">Clients</a>
-				<a href="sponsors.html">Sponsors</a>
-				<a href="team.html">Team</a>
-				<p>Information For</p>
-				<a href="infostudents.html">Students</a>
-				<a href="infoclients.html">Potential Clients</a>
-				<a href="infosponsors.html">Potential Sponsors</a>
-				<a href="contact.html">Contact Us</a>
 			</div>
-			<div class="split"></div>
+			<div class="split">
+				<div class="top"></div>
+				<div class="bottom"></div>
+			</div>
 		</div>
 		<div class="main">
-			<div class="body"><div>
-		</div>
-		<div class="footer">
-			<div class="sponsor-logos">
-
+			<div class="left">
+				<a href="http://acm.psu.edu"><img src="res/psuacm.jpg"/></a>
+				<a href="http://dav3i.stateware.org"><img src="res/dav3i.png"/></a>
+			</div>
+			<div class="body">
+				<div class="container"></div>
+			</div>
+			<div class="right">
+				<a href="http://www.ibm.com"><img src="res/ibm_logo.png"/></a>
+				<a href="http://www.lutron.com"><img src="res/lutron_logo.png"/></a>
+				<a href="http://www.microsoft.com"><img src="res/microsoft_logo.png"/></a>
 			</div>
 		</div>
+
+		<script type="text/javascript" src="script/d3.js"></script>
+		<script type="text/javascript" src="script/script.js"></script>
+		<script type="text/javascript">
+			LoadLinks();
+			LoadContent('home.json');
+		</script>
 	</body>
 </html>

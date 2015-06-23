@@ -1,0 +1,10 @@
+[
+	{
+		"type" : "heading",
+		"text" : "Contact Us"
+	},
+	{
+		"type" : "plaintext",
+		"text" : "</p><h5 class='subheading'>To contact us, please send an email to:</h5></br><a class='link-large' href='mailto:stateware@acm.psu.edu'>stateware@acm.psu.edu</a><p>"
+	}
+]

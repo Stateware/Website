@@ -1,0 +1,40 @@
+[
+	{
+		"type" : "project",
+		"name" : "Dav3i",
+		"client" : "Dr. Matthew Ferrari",
+		"inception" : "Spring 2015",
+		"github" : "https://www.github.com/stateware/dav3i",
+		"live" : "http://dav3i.stateware.org",
+		"image" : {
+			"src" : "res/dav3i_demo.png",
+			"alt" : "Dav3i Demo",
+			"height" : 300,
+			"width" : 300
+		},
+		"first" : "Dav3i is a web application designed to visualize worldwide trends associated with the Measles virus.",
+		"body" : "Using Dav3i, strategy makers at organizations like the World Health Organization can make more informed decisions regarding the distribution of vaccines worldwide. In Spring 2015, the inaugural Stateware team released the first version of Dav3i. In Summer 2015, the project was expanded by a hired developer to optimize the time complexity of the UI, as well as add the ability to directly compare 2 stats, as well as visualize other theoretical models for the estimation of Measles incidence and mortality. In Fall 2016, Stateware developers will continue to expand the feature set of Dav3i.</p><p class='text'>See Dav3i in action below"
+	},
+	{
+		"type" : "youtube",
+		"source" : "qiyqD_vVKh8"
+	},
+	{
+		"type" : "project",
+		"name" : "Galaxy",
+		"client" : "Dr. Anton Nekrutenko",
+		"inception" : "Fall 2015",
+		"github" : "https://github.com/galaxyproject/galaxy",
+		"live" : "https://usegalaxy.org/",
+		"first" : "Galaxy is an open source, web based platform for data intensive biomedical research. By utilizing GUI wrapped command line tools, Galaxy makes it easy to quickly analyze and understand vast amounts of data. Galaxy is not limited to biological applications, and can be used to analyze any data. In Fall 2015-Spring 2016, Stateware developers will introduce new features to Galaxy, and increase its benefit for the use of researchers worldwide.",
+		"body" : ""
+	},
+	{
+		"type" : "project",
+		"name" : "Untitled Traffic Project",
+		"client" : "Dr. Vikash Gayah",
+		"inception" : "Fall 2015",
+		"first" : "This project entails a web platform for creating and simulating scenarios on a user-built traffic system. Using this application, researchers can gain a deep understanding of how urban transportation networks function under many different circumstances, and also educate the public on the design, operation, and management of traffic systems.",
+		"body" : ""
+	}
+]

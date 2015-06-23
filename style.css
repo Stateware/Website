@@ -1,1 +1,224 @@
- 
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+
+.header {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 15%;
+	background-color: #3b3b6a;
+	z-index: 0;
+}
+
+.logo {
+	position: absolute;
+	bottom: -5%;
+	left: 0;
+	width: 20%;
+	height: 100%;
+	text-align: center;
+}
+
+.logo img {
+	padding: 0.75% 0.375% 0.75% 0.375%; /* equivalent to 2.5% of the height of the header, 5% on top and bottom */
+	max-height: 90%;
+	max-width: 95%;
+}
+
+.links {
+	position: absolute;
+	top: 0;
+	left: 20%;
+	height: 95%;
+	width: 60%;
+}
+
+.split .top {
+	position: absolute;
+	top: 95%;
+	left: 0;
+	height: 3%;
+	width: 100%;
+	background-color: black;
+}
+
+.split .bottom {
+	position: absolute;
+	top: 98%;
+	left: 0;
+	height: 2%;
+	width: 100%;
+	background-color: white;
+}
+
+.main {
+	position: absolute;
+	top: 15%;
+	left: 0;
+	min-height: 85%;
+	width: 100%;
+	background-image: url(res/noisy_net.png);
+	background-repeat: repeat;
+}
+
+/* Background pattern is "Noisy Net" by Tom McArdle from subtlepatterns.com */
+
+.left, .right {
+	position: fixed;
+	top: 18%;
+	width: 20%;
+	height: 100%;
+	text-align: center;
+}
+
+.left {
+	left: 0;
+}
+
+.right {
+	left: 80%;
+}
+
+.right img, .left img {
+	padding: 5%;
+	max-width: 90%;
+	max-height: 20%;
+}
+
+.body {
+	position: relative;
+	top: 0;
+	left: 20%;
+	height: 100%;
+	width: 60%;
+	background-color: #c7c7db;
+}
+
+.container {
+	min-height: 100%;
+}
+
+.container > div {
+	padding: 2.5% 15% 0 15%;
+	width: 70%;
+}
+
+.heading {
+	font-family: 'Halant';
+	color: #333344;
+}
+
+h1.heading {
+	font-size: 36pt;
+	text-align: center;
+}
+
+h3.heading {
+	font-size: 30pt;
+}
+
+.subheading {
+	font-family: 'Montserrat';
+	font-size:18pt;
+	color: #666677;
+}
+
+.link-heading {
+	font-family: 'Montserrat';
+	font-size: 14pt;
+	color: #666677;
+}
+
+a {
+	font-family: 'Montserrat';
+	color: #22222f;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #88889f;
+}
+
+.link-large {
+	font-size: 14pt;
+}
+
+.text {
+	font-family: 'Montserrat';
+	font-size: 12pt;
+	padding-top: 2.5%;
+	color: #22222f;
+}
+
+.inline-heading {
+	font-family: 'Montserrat';
+	font-size:18pt;
+	color: #22222f;
+}
+
+.image-left, .image-right, .content-left, .content-right {
+	position: static;
+	width: 47%;
+}
+
+.image-left, .content-right {
+	padding-right: 3%;
+}
+
+.image-right, .content-left {
+	padding-left: 3%;
+}
+
+.content-left, .image-right {
+	text-align: right;
+}
+
+.mixed {
+	display: flex;
+}
+
+.image-center {
+	position: relative;
+	left: 15%;
+	width: 70%;
+}
+
+.image-center img, .image-left img, .image-right img {
+	max-width: 100%;
+}
+
+.feed-end {
+	width: 90%;
+	height: 10%;
+	text-align: center;
+	background-color: #d5d5ef;
+}
+
+.feed-end > .subheading {
+	padding-bottom: 2.5%;
+}
+
+.youtube {
+	width: 640;
+	height: 480;
+	text-align: center;
+}
